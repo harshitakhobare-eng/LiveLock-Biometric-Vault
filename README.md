@@ -81,7 +81,7 @@ Future Improvements:
 3. Multi-factor authentication
 4. Scalable deployment architecture
 
-👩‍💻 Author
+Authors:
+1. Harshita Khobare
+2. Sanskruti Bhosale
 
-Harshita Khobare
-Computer Science Engineering Student
